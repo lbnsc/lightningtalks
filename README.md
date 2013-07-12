@@ -2,8 +2,8 @@
 * **Play Framework**, Tomek Grobel
 * **MongoDB**, Jarek Widomski	
 * **Scalatra**, Krzysiek Ciesielski
-* **Salat**, Krzysiek Ciesielski
-* **Tropienie błędów z git bisect	**, Krzysiek Ciesielski
+* **Salat**, Krzysiek Ciesielsko
+* **Tropienie błędów z git bisect**, Krzysiek Ciesielski
 * **Rogue - Query DSL dla Mongo**, Krzysiek Ciesielski
 * **Activiti**, Przemysław Kaczyński
 * **Optymalizacja pracy - wykorzystanie skrótów, nie używanie myszy**, Jarek Bajak
