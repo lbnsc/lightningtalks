@@ -18,3 +18,6 @@
 * **O smrodzie w kodzie :)**, Bartek Piech
 * **Testy mutacyjne**, Jarek Bajak
 
+
+##### Notka
+Poprzednio pomysły były dodawane w [Spreadsheet na GDocs](https://docs.google.com/spreadsheet/ccc?key=0ArBp_AqnHMY5dGJ4M3FnaGt2Z2xlT2E0ZVM1dk1GbkE#gid=0). Jeśli dodasz tam coś, proszę o info albo pull requesta.
